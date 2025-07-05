@@ -6,4 +6,4 @@
 
 📈 También he trabajado en el diseño de estrategias de trading financiero usando aprendizaje de máquina con Torch, participando en desafíos como los de Quantiacs.
 
-🔍 Interesado en aplicaciones prácticas de la programación, el análisis de datos y la automatización.
+🔍 Interesado en aplicaciones prácticas de la programación, el análisis de datos y la automatización. (La verdad no.)
